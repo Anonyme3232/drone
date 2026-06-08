@@ -117,6 +117,8 @@ IMUData imu_read(float dt) {
     // Ángulos del acelerómetro
     float roll_a  = atan2f(ay, az)                       * (180.0f / M_PI);
     float pitch_a = atan2f(-ax, sqrtf(ay*ay + az*az))   * (180.0f / M_PI);
+    roll_a = -roll_a; // corregir signo para que coincida con la convención de giroscopio
+    pitch_a = -pitch_a;
 
     // Filtro complementario
     /*
