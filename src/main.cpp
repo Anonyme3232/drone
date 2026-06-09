@@ -124,7 +124,7 @@ void loop() {
 
     // ---- Setpoints (hover estatico) ----
     float sp_roll  = joystick.roll;
-    float sp_pitch = joystick.pitch;
+    float sp_pitch = -joystick.pitch;
     float sp_yaw   = 0.0f;
     float throttle = 1070.0f; // cambiar con el control después
 
