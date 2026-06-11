@@ -1,0 +1,62 @@
+Info: Escala X restringida.
+Info: Escala Y restringida.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Cu.gtl'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In1_Cu.g1'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In2_Cu.g2'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In3_Cu.g3'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In4_Cu.g4'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Cu.gbl'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Adhesive.gta'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Adhesive.gba'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Paste.gtp'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Paste.gbp'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Silkscreen.gto'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Silkscreen.gbo'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Mask.gts'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Mask.gbs'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Drawings.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Comments.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Eco1.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Eco2.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-Edge_Cuts.gm1'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-Margin.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Courtyard.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Courtyard.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Fab.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Fab.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_1.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_2.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_3.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_4.gbr'.
+Archivo de trabajo Gerber '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-job.gbrjob' creado.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Cu.gtl'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In1_Cu.g1'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In2_Cu.g2'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In3_Cu.g3'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-In4_Cu.g4'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Cu.gbl'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Adhesive.gta'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Adhesive.gba'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Paste.gtp'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Paste.gbp'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Silkscreen.gto'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Silkscreen.gbo'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Mask.gts'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Mask.gbs'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Drawings.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Comments.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Eco1.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_Eco2.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-Edge_Cuts.gm1'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-Margin.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Courtyard.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Courtyard.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-F_Fab.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-B_Fab.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_1.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_2.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_3.gbr'.
+Trazado a '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-User_4.gbr'.
+Archivo de trabajo Gerber '/Users/marcoruiz/Downloads/OpenRX-main/OpenRX-Lite-UFL/OpenRX-Lite-UFL-job.gbrjob' creado.
+Info: Listo.
+Info: Listo.
