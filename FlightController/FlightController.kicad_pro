@@ -50,8 +50,8 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "border_display_style": 2,
-          "border_hatch_pitch": 0.5,
+          "border_display_style": 1,
+          "border_hatch_pitch": 0.1,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
           "fill_mode": 0,
@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -651,15 +651,24 @@
         "filename": "hb100.kicad_sch",
         "name": "HB100",
         "uuid": "a4186cdc-a8b7-4913-8ca3-db0c31f9e2d3"
+      },
+      {
+        "filename": "mcu.kicad_sch",
+        "name": "MCU",
+        "uuid": "23eee45e-90e6-43fa-b873-cebbb5d66576"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR5,#PWR8-9,#PWR19-22,C10-12,MS4,R14-20,L1,U4-5",
+    "used_designators": "U6-9,J3",
     "variants": []
   },
   "sheets": [
     [
       "308dac0f-86ec-4e6d-81af-c05338252f11",
       "Raíz"
+    ],
+    [
+      "23eee45e-90e6-43fa-b873-cebbb5d66576",
+      "MCU"
     ],
     [
       "a4186cdc-a8b7-4913-8ca3-db0c31f9e2d3",
