@@ -211,6 +211,7 @@
       ],
       "track_widths": [
         0.0,
+        0.15,
         0.2,
         0.5,
         1.0
@@ -245,6 +246,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false
@@ -699,7 +704,7 @@
         "uuid": "a4186cdc-a8b7-4913-8ca3-db0c31f9e2d3"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "C13-14,J4,#PWR21,#PWR24-27,U1",
     "variants": []
   },
   "sheets": [
