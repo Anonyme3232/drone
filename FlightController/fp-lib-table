@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MisComponentes") (type "KiCad") (uri "${KIPRJMOD}/MisComponentes.pretty") (options "") (descr ""))
+)
